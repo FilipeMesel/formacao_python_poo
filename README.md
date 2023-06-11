@@ -1,6 +1,6 @@
 # Projeto Formação Python
 
-Este projeto representa o conceitos de herança simples e herança múltipla do curso "Formação Python" da [DIO](https://www.dio.me/bootcamp/primeiros-passos-em-tecnologia).
+Este projeto representa o conceitos de herança simples e herança múltipla, polimorfismo e encapsulamento do curso "Formação Python" da [DIO](https://www.dio.me/bootcamp/primeiros-passos-em-tecnologia).
 
 ## Descrição
 
