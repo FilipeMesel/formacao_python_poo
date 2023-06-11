@@ -10,6 +10,10 @@ O projeto "encapsulamento.py" utiliza python para descrever o conceito de encaps
 O projeto "propriedades_exemplo_foo.py" utiliza python para descrever o conceito de propriedades de POO.
 O projeto "propriedades_exemplo_pessoa.py" utiliza python para descrever o conceito de propriedades de POO.
 
+### Lembrando que
+
+Encapsulamento: Conceito de público(nome_atributo) e privado (_nome_atributo) e propriedade (@property)
+
 ## Como testar o projeto
 
 Para testar o projeto, siga os passos abaixo:
