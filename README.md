@@ -5,6 +5,10 @@ Este projeto representa o conceitos de herança simples e herança múltipla, po
 ## Descrição
 
 O projeto "heranca_simples.py" utiliza python para descrever o conceito de herança simples de POO ao elaborar quatro classes: Veiculo, Carro, Caminhão e Motocicleta; onde as três últimas são filhas da primeira.
+O projeto "heranca_multipla.py" utiliza python para descrever o conceito de herança multipla de POO.
+O projeto "encapsulamento.py" utiliza python para descrever o conceito de encapsulamento de POO.
+O projeto "propriedades_exemplo_foo.py" utiliza python para descrever o conceito de propriedades de POO.
+O projeto "propriedades_exemplo_pessoa.py" utiliza python para descrever o conceito de propriedades de POO.
 
 ## Como testar o projeto
 
