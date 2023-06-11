@@ -19,9 +19,9 @@ Para testar o projeto, siga os passos abaixo:
 
     cd Formacao_python_poo
 
-3. Execute o arquivo "heranca_simples.py" usando o Python 3:
+3. Execute o arquivo "nome_projeto.py" usando o Python 3:
 
-    python heranca_simples.py
+    python nome_projeto.py
 
 ## Dependências
 
