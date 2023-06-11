@@ -10,6 +10,9 @@ Este projeto representa o conceitos de herança simples e herança múltipla, po
  - O projeto "propriedades_exemplo_foo.py" utiliza python para descrever o conceito de propriedades de POO.
  - O projeto "propriedades_exemplo_pessoa.py" utiliza python para descrever o conceito de propriedades de POO.
  - O projeto "polimorfismo.py" utiliza python para descrever o conceito de polimorfismo de POO.
+ - O projeto "variaveis_classe_x_variaveis_instancia.py" descreve a diferença entre variáveis de classe e de instância
+ - O projeto "metodos_classe_x_metodos_estaticos.py" descreve a diferença entre métodos de classe e de métodos estáticos
+ - O projeto "classes_abstratas.py" descreve o conceito de interfaces e classes abstratas em POO. Lembrando que python não tem a palavra reservada "interface"
 
 ### Lembrando que
 
